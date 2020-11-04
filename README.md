@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend development**
 
-- 🤝 I’m looking for help with [Dante](https://github.com/shockbytes/Dante)
+- 🤝 I’m looking for help with [Dante](https://github.com/shockbytes/Dante) & [Warehouse](https://github.com/shockbytes/Warehouse)
 
 - 👨‍💻 All of my projects are available at [https://shockbytes.github.io/#/apps](https://shockbytes.github.io/#/apps)
 
