@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">Co-Founder of VIABIRDS</h3>
 
-- 🔭 I’m currently working on **VIABIRDS**
+- 🔭 I’m currently working on **a new shopping experience**
 
 - 🌱 I’m currently learning **Backend development**
 
