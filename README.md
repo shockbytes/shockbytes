@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a new shopping experience**
 
-- 🌱 I’m currently learning **Backend development**
+- 🌱 I’m currently learning **PHP** (and I think it's awesome)
 
 - 🤝 I’m looking for help with [Dante](https://github.com/shockbytes/Dante) & [Warehouse](https://github.com/shockbytes/Warehouse)
 
