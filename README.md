@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shockbytes.github.io/#/apps](https://shockbytes.github.io/#/apps)
 
-- 📝 I regulary write articles on [https://medium.com/@mescht93](https://medium.com/@mescht93)
+- 📝 I regulary write articles on [mescht93.medium.com](https://mescht93.medium.com)
 
 - 💬 Ask me about **Mobile Development**
 
