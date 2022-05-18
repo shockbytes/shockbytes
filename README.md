@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">Co-Founder of VIABIRDS</h3>
 
-- 🔭 I’m currently working on **a new shopping experience**
+- 🔭 I’m currently working on **making eGrocery convenient for everyone**
 
 - 🌱 I’m currently learning **PHP** (and I think it's awesome)
 
-- 🤝 I’m looking for help with [Dante](https://github.com/shockbytes/Dante) & [Warehouse](https://github.com/shockbytes/Warehouse)
+- 🤝 I’m looking for help with [Dante](https://github.com/shockbytes/Dante) || [Warehouse](https://github.com/shockbytes/Warehouse)
 
-- 👨‍💻 All of my projects are available at [https://shockbytes.github.io/#/apps](https://shockbytes.github.io/#/apps)
+- 👨‍💻 Most of my projects are available here on [Github](https://github.com/shockbytes/)
 
-- 📝 I regulary write articles on [mescht93.medium.com](https://mescht93.medium.com)
+- 📝 I (not so) regurlarly write articles on [mescht93.medium.com](https://mescht93.medium.com)
 
-- 💬 Ask me about **Mobile Development**
+- 💬 Ask me anything about **Mobile Development**
 
-- 📫 How to reach me **mescht93@gmail.com**
+- 📫 Or reach out to me at **mescht93@gmail.com**
 
 - ⚡ Fun fact: **I do like C. Really! But don't tell anybody!**
 
