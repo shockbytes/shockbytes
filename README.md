@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with the Flutter implementation [Dante](https://github.com/shockbytes/DanteX)
 
-- 🌱 I’m currently about **Bitcoin and the Blockchain** (and I think it's awesome)
+- 🌱 I’m currently learning about **Bitcoin and the Blockchain**
 
 - 👨‍💻 Most of my projects are available here on [Github](https://github.com/shockbytes/)
 
