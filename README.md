@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
-<h3 align="center">Co-Founder of VIABIRDS</h3>
+<h3 align="center">Co-Founder of VIABIRDS and always on the lookout for good devs</h3>
 
 - 🔭 I’m currently working on **making eGrocery convenient for everyone**
 
-- 🌱 I’m currently learning **PHP** (and I think it's awesome)
+- 🤝 I’m looking for help with the Flutter implementation [Dante](https://github.com/shockbytes/DanteX)
 
-- 🤝 I’m looking for help with [Dante](https://github.com/shockbytes/Dante) || [Warehouse](https://github.com/shockbytes/Warehouse)
+- 🌱 I’m currently about **Bitcoin and the Blockchain** (and I think it's awesome)
 
 - 👨‍💻 Most of my projects are available here on [Github](https://github.com/shockbytes/)
 
