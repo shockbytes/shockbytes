@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
-<h3 align="center">Co-Founder of VIABIRDS and always on the lookout for good devs</h3>
+<h3 align="center">Co-Founder and CTO of VIABIRDS Technologies</h3>
 
-- 🔭 I’m currently working on **making eGrocery convenient for everyone**
+- ㊙️ I'm currently working on a "Podcast Studio" (still a secret)
 
 - 🤝 I’m looking for help with the Flutter implementation [Dante](https://github.com/shockbytes/DanteX)
 
-- 🌱 I’m currently learning about **Bitcoin and the Blockchain**
+- 🌱 I’m currently learning about **Bitcoin, Blockchain and Cloud Native**
 
 - 👨‍💻 Most of my projects are available here on [Github](https://github.com/shockbytes/)
 
-- 📝 I (not so) regurlarly write articles on [mescht93.medium.com](https://mescht93.medium.com)
+- 📝 I (not so) regularly write articles on [mescht93.medium.com](https://mescht93.medium.com)
 
-- 💬 Ask me anything about **Mobile Development**
+- 💬 Ask me anything about **Mobile Development with Android and Flutter**
 
 - 📫 Or reach out to me at **mescht93@gmail.com**
 
